@@ -1,4 +1,4 @@
-##MongoDB Cookbook
+#MongoDB Cookbook
  
 ###Starting a single node instance using command-line options
 #####In this recipe, we will see how to start a standalone single node server with some command-line options. We will see an example where we want to do the following:
